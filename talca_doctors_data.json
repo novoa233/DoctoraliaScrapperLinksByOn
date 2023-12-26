@@ -1,0 +1,891 @@
+[
+  {
+    "name": "Ps. José Manuel Martínez Rebolledo ",
+    "specialization": "Psicólogo",
+    "address": "Talca",
+    "entityName": "Telemedicina Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Dra. Mitzy Jeraldo Videla ",
+    "specialization": "Médico general",
+    "address": "Talca",
+    "entityName": "Telemedicina Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ps. Cecilia Jara Bravo ",
+    "specialization": "Psicólogo",
+    "address": "2 sur con 2 oriente, Talca",
+    "entityName": "Espacio Talca - Solo atención ONLINE",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4397049,-71.6656265"
+  },
+  {
+    "name": "Ps. Macarena Díaz Lazcano ",
+    "specialization": "Psicólogo",
+    "address": "Consulta online, Talca",
+    "entityName": "Telemedicina Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.452755,-71.6803741"
+  },
+  {
+    "name": "Ps. Nataly Jara Tapia ",
+    "specialization": "Psicólogo",
+    "address": "CONSULTA ON LINE, Talca",
+    "entityName": "Psicóloga Nataly",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ps. Matías Rojas Ramírez ",
+    "specialization": "Psicólogo",
+    "address": "Calle 30 Oriente, Talca",
+    "entityName": "Consulta Ps. Matías Rojas",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4381943,-71.631897"
+  },
+  {
+    "name": "Ps. Raul Andres Morales Zuñiga ",
+    "specialization": "Psicólogo",
+    "address": "Edificio Espacio Talca 2 sur 2 oriente Of 512, Talca",
+    "entityName": "Consultorio privado",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4284592,-71.6644974"
+  },
+  {
+    "name": "Ps. Claudia Vásquez Contreras ",
+    "specialization": "Psicólogo",
+    "address": "Tres Sur, Talca",
+    "entityName": "CONSULTA ONLINE TALCA",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4301987,-71.6542206"
+  },
+  {
+    "name": "Dr. Ismael Erazo Astudillo ",
+    "specialization": "Médico general",
+    "address": "Talca",
+    "entityName": "Telemedicina Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4224739,-71.6414642"
+  },
+  {
+    "name": "Nut. María Isabel Cofré Torres ",
+    "specialization": "Nutricionista",
+    "address": "Estudio de Nutrición de María Isabel Cofré, 1 y 2 Oriente,, Talca",
+    "entityName": "Consultorio privado",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ps. Paola Salinas Ruiz ",
+    "specialization": "Psicólogo",
+    "address": "Dos Sur 870, Talca",
+    "entityName": "Espacio Sanar",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4284592,-71.6644974"
+  },
+  {
+    "name": "Nut. Verónica Alarcón Gajardo ",
+    "specialization": "Nutricionista",
+    "address": "Camino Las Rastras 1285, Talca",
+    "entityName": "Medicare SPA",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4371948,-71.611908"
+  },
+  {
+    "name": "Ps. Abigail Toro Loyola ",
+    "specialization": "Psicólogo",
+    "address": "Talca",
+    "entityName": "Consulta Online (Talca)",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ps. Marina Isabel Campos Rivero ",
+    "specialization": "Psicólogo",
+    "address": "Calle 30 oriente #1528 of. 516, Edificio Centro Las Rastras 1, Talca",
+    "entityName": "PsicoTalca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4274445,-71.6263733"
+  },
+  {
+    "name": "Ps. Paula Santander ",
+    "specialization": "Psicólogo",
+    "address": "Talca",
+    "entityName": "Consulta Online Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ps. Carolina Abarca Zuñiga ",
+    "specialization": "Psicólogo",
+    "address": "Talca",
+    "entityName": "Consulta Online Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ps. Carla Kriman Fernández ",
+    "specialization": "Psicólogo",
+    "address": "Talca, Talca",
+    "entityName": "Consulta psicológica online Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4224739,-71.6414642"
+  },
+  {
+    "name": "Karen Palma ",
+    "specialization": "Fonoaudiólogo",
+    "address": "Talca",
+    "entityName": "Atención a domicilio Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ps. Isabel Marchant Chandía ",
+    "specialization": "Psicólogo",
+    "address": "Talca",
+    "entityName": "Psicóloga Universidad de Chile / Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ps. Alejandro Orellana Orostiga ",
+    "specialization": "Psicólogo",
+    "address": "30 Oriente #1528 oficina 516, Talca",
+    "entityName": "PsicoTalca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4274445,-71.6263733"
+  },
+  {
+    "name": "Ps. Hernán Muñoz Ruz ",
+    "specialization": "Psicólogo, Terapeuta complementario",
+    "address": "Avenida Diagonal Nueva Holanda 2245, Talca",
+    "entityName": "Consulta particular",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.424408,-71.6266174"
+  },
+  {
+    "name": "Ps. María José Muñoz Vega ",
+    "specialization": "Psicólogo",
+    "address": "2 sur 1 y 2 oriente 870, Edificio Espacio Talca, Talca",
+    "entityName": "Consulta Psicológica",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4300385,-71.6640091"
+  },
+  {
+    "name": "Dra. Karen Oviedo Tovar ",
+    "specialization": "Médico general",
+    "address": "Talca",
+    "entityName": "Telemedicina- Maule",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ps. Ingrid Bustos Muñoz ",
+    "specialization": "Psicólogo",
+    "address": "37 Oriente 1984 entre 9 y media norte C Y 10 NORTE, Talca",
+    "entityName": "Consulta Privada CENTRO RENOVAVID",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4264107,-71.6126022"
+  },
+  {
+    "name": "Velia Espinoza ",
+    "specialization": "Matrona",
+    "address": "1 norte 3 y 4 oriente , numero 1077, Talca",
+    "entityName": "Velia Espinoza Soto",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4194679,-71.6604538"
+  },
+  {
+    "name": "Ps. Cristobal Mardones ",
+    "specialization": "Psicólogo",
+    "address": "Talca, Talca",
+    "entityName": "Telemedicina Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4224739,-71.6414642"
+  },
+  {
+    "name": "Ps. Mauricio Torres Deik ",
+    "specialization": "Psicólogo",
+    "address": "1 sur 865 - Ed Torre Talca - Piso 8 - Of. 82, Talca",
+    "entityName": "Mauricio Torres Deik - Psicólogo",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4268494,-71.6642532"
+  },
+  {
+    "name": "Ps. Verónica Álvarez ",
+    "specialization": "Psicólogo",
+    "address": "Edificio Espacio Talca, 2 sur 870, Talca",
+    "entityName": "CONSULTA PRESENCIAL",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4273643,-71.6669312"
+  },
+  {
+    "name": "Ps. Ana María Vega Bustamante ",
+    "specialization": "Psicólogo, Terapeuta complementario",
+    "address": "1 norte 1 y 2 oriente 841 Edificio Progresur Block B2 oficina 3. Talca, Talca",
+    "entityName": "Consultorio privado",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4262733,-71.6574631"
+  },
+  {
+    "name": "Ks. Ricardo Briones M ",
+    "specialization": "Kinesiólogo",
+    "address": "Talca, Talca",
+    "entityName": "Atención Domiciliaria",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ps. Constanza Pagueguy Julio ",
+    "specialization": "Psicólogo",
+    "address": "Avenida Alameda #1086, edificio Marbella, Talca",
+    "entityName": "Nueva Venus Psicoterapias infanto juvenil y adultos, evaluaciones, test, tratamientos integrales, Mindfullness, Constelaciones familiares",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4239616,-71.6473694"
+  },
+  {
+    "name": "Ps. Claudia Herrera Bravo ",
+    "specialization": "Psicólogo",
+    "address": "4 Oriente 1940, Talca",
+    "entityName": "Consulta presencial Psicóloga Claudia Herrera",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4164772,-71.6600494"
+  },
+  {
+    "name": "Nut. Verónica Alarcón Gajardo ",
+    "specialization": "Nutricionista",
+    "address": "Calle 2 Poniente, Talca",
+    "entityName": "Centro médico Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4272156,-71.6681213"
+  },
+  {
+    "name": "Nut. Isabel Astudillo Gaete ",
+    "specialization": "Nutricionista",
+    "address": "1 poniente 1 y 2 norte Oficina 715, Talca",
+    "entityName": "Edificio Plaza Poniente 1258",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4316711,-71.6696091"
+  },
+  {
+    "name": "Ps. Valentina Valdés Roldán ",
+    "specialization": "Psicólogo",
+    "address": "Talca, Talca",
+    "entityName": "Consulta psicológica online Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ks. Francisca Paz Araya Garrido ",
+    "specialization": "Kinesiólogo, Terapeuta complementario",
+    "address": "7 oriente 1 1/2 norte #1272 1er piso, Talca",
+    "entityName": "Centro Kinésico y Estética IntegraKine",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4275131,-71.656723"
+  },
+  {
+    "name": "Dra. Carolina González Navarro ",
+    "specialization": "Internista",
+    "address": "Calle 30 Oriente 1562, Talca",
+    "entityName": "CIM Las Rastras",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4283409,-71.6261063"
+  },
+  {
+    "name": "Ps. Jacqueline Troncoso Cabrera ",
+    "specialization": "Psicólogo",
+    "address": "Talca, Talca",
+    "entityName": "TELEMEDICINA",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ps. Daniela Flores Figueroa ",
+    "specialization": "Psicólogo, Terapeuta complementario",
+    "address": "Av. Dos Sur 870 - oficina 606, Talca",
+    "entityName": "Daniela Flores - Psicóloga",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4284592,-71.6644974"
+  },
+  {
+    "name": "Ps. Alejandra Moya Díaz ",
+    "specialization": "Psicólogo",
+    "address": "2 oriente entre 2 y 3 norte #1370., Talca",
+    "entityName": "Consulta Particular Ps. Alejandra Moya Díaz",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4244461,-71.6571045"
+  },
+  {
+    "name": "Dra. Pamela González Rojas ",
+    "specialization": "NUEVO PERFIL EN DOCTORALIA",
+    "address": "Camino las rastras 1285 oficina 423 - 424 , Talca",
+    "entityName": "VarasGonzalez Odontologia",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4366646,-71.6112671"
+  },
+  {
+    "name": "Dra. Francis Pinto Guevara ",
+    "specialization": "Urólogo",
+    "address": "Camino Las Rastras 1285 con 2 Norte Nro 4290 Piso 7 / Oficina 723, Talca",
+    "entityName": "Centro Pichimapu Ofic 723 Horario Atención Lunes 17:00 hasta 20:00, Miércoles 15:00 a las 18:00 y Jueves 15.00 a 18:00 Solo Pago Particular Sin convenio con FONASA O ISAPRES. TODAS LAS CONSULTAS SE CANCELAN INCLUYENDO LA REVISION DE EXAMENES",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4371834,-71.6119003"
+  },
+  {
+    "name": "Dr. Carlos Quevedo Bonetti ",
+    "specialization": "Cirujano general",
+    "address": "2 poniente 1372, Talca",
+    "entityName": "Clínica Lircay",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4238243,-71.6677322"
+  },
+  {
+    "name": "Ps. María José Santelices Sazo ",
+    "specialization": "Psicólogo",
+    "address": "Camino Las Rastras 1285, Centro Pichimapu, oficina 716, Talca",
+    "entityName": "Consulta Privada",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4371948,-71.611908"
+  },
+  {
+    "name": "Ps. Manuel Venegas Pereira ",
+    "specialization": "Psicólogo",
+    "address": "Talca",
+    "entityName": "Psicoterapia Online",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ks. Ricardo Briones M ",
+    "specialization": "Kinesiólogo",
+    "address": "5 Oriente 775, Talca",
+    "entityName": "Neyün Kidef-Kinesiología",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4314346,-71.6602783"
+  },
+  {
+    "name": "Dra. Silvia Aguilar Salas ",
+    "specialization": "Nutriólogo, Especialista en salud publica",
+    "address": "Calle 30 Oriente 1562. Edif Centro Las Rastras 3. Of 910, Talca",
+    "entityName": "ENT & Med",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4283295,-71.6260986"
+  },
+  {
+    "name": "Dr. Felipe E. Ahumada Mira ",
+    "specialization": "Otorrino",
+    "address": "1 Poniente 1258 Edif. Plaza Pte. piso 11 of 1101, Talca",
+    "entityName": "Clínica Otorrinolaringológica",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4254913,-71.6666641"
+  },
+  {
+    "name": "Ps. Jacqueline Vásquez Cabello ",
+    "specialization": "Psicólogo",
+    "address": "30 oriente 1420 oficina 614, Talca",
+    "entityName": "Edificio Plaza Oriente -consulta particular",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4300385,-71.6271057"
+  },
+  {
+    "name": "Ps. Yasna Barra Vargas ",
+    "specialization": "Psicólogo",
+    "address": "Talca",
+    "entityName": "Consulta online Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ps. Begoña Cordero ",
+    "specialization": "Psicólogo",
+    "address": "Uno Sur 690, Talca",
+    "entityName": "Psico-tal Center CONSULTA PRESENCIAL",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4271851,-71.6669159"
+  },
+  {
+    "name": "Ps. Karina Manriquez R. ",
+    "specialization": "Psicólogo",
+    "address": "Edificio Plaza Poniente, 1 Poniente 1258, Entre 1 y 2 Norte, Talca",
+    "entityName": "MENSAL Centro de Salud",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4251671,-71.6663208"
+  },
+  {
+    "name": "Ps. Abigail Ester Silva Carvajal ",
+    "specialization": "Psicólogo",
+    "address": "2 Oriente 1730, Talca",
+    "entityName": "Ps. Abigail Silva - Consulta privada",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4188843,-71.6629028"
+  },
+  {
+    "name": "Ps. M. Josefina Barriga Montes ",
+    "specialization": "Psicólogo",
+    "address": "Av. Las Rastras 1285, Talca",
+    "entityName": "Centro Pichimapu.",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4367294,-71.611557"
+  },
+  {
+    "name": "Ks. Francisca Paz Araya Garrido ",
+    "specialization": "Kinesiólogo, Terapeuta complementario",
+    "address": "7 oriente 1 1/2 norte #1272 1er piso, Talca",
+    "entityName": "IntegraKine",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4228783,-71.6564941"
+  },
+  {
+    "name": "Dr. Héctor Manuel Angola Gutiérrez ",
+    "specialization": "Traumatólogo",
+    "address": "6 oriente 1349, Talca",
+    "entityName": "Centro Médico y Kinésico KineSalud",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.424572,-71.6584091"
+  },
+  {
+    "name": "Karin Mansilla Kanelos ",
+    "specialization": "Psicólogo",
+    "address": "2 Norte #530 entre 2 y 3 poniente, Talca",
+    "entityName": "Karin Andrea Mansilla Kanelos",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4246292,-71.6687469"
+  },
+  {
+    "name": "Dra. Genesis Chapardi ",
+    "specialization": "Médico general",
+    "address": "Calle 30 Oriente, Talca",
+    "entityName": "Sermasalud",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4381943,-71.631897"
+  },
+  {
+    "name": "Ps. María Alicia Bravo Gaete ",
+    "specialization": "Psicólogo",
+    "address": "1 Poniente 1610, Talca",
+    "entityName": "Consultora Conexión, Atención Psicológica individual y colectiva",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4201927,-71.6661301"
+  },
+  {
+    "name": "Dr. Luciano Varas Salinas ",
+    "specialization": "Dentista",
+    "address": "Camino Las Rastras, 1285. Oficinas 423 y 424, Talca",
+    "entityName": "VarasGonzález Odontología Digital y Microscópica",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4366646,-71.6112671"
+  },
+  {
+    "name": "Dra. Kimberly Carolina Fereira González ",
+    "specialization": "Otorrino",
+    "address": "Talca Calle 30 Oriente 1562 \"Edificio Centro las Rastras III\" Oficina 910, Talca",
+    "entityName": "ENT & MED",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4283295,-71.6260986"
+  },
+  {
+    "name": "Dr. Juan Enrique Salas Figueroa ",
+    "specialization": "Traumatólogo",
+    "address": "Tres Norte 540, Talca",
+    "entityName": "Vive Salud - Medicina Deportiva",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4233704,-71.6683121"
+  },
+  {
+    "name": "Dra. Carolina Paz Poblete Bustos ",
+    "specialization": "Psicólogo",
+    "address": "Dos Sur 870, Talca",
+    "entityName": "Consultorio privado",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4284592,-71.6644974"
+  },
+  {
+    "name": "Ps. Pablo Aravena Jiménez ",
+    "specialization": "Psicólogo",
+    "address": "talca, Talca",
+    "entityName": "Consultorio privado",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Dr. Jose Lam Esquenazi ",
+    "specialization": "Endocrinólogo",
+    "address": "2 Poniente #1383, esquina 3 Norte, Talca",
+    "entityName": "Centro Médico Talca - Endocrinólogo Adultos",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4234772,-71.6679382"
+  },
+  {
+    "name": "Dr. Cesar R. Olivo Muñoz ",
+    "specialization": "Traumatólogo",
+    "address": "30 Oriente Edificio Plaza Oriente, 1420 PISO 7 OFICINA 704, Talca",
+    "entityName": "CONSULTA PARTICULAR",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4300385,-71.6271057"
+  },
+  {
+    "name": "Ps. Karina Manriquez R. ",
+    "specialization": "Psicólogo",
+    "address": "Edificio Espacio Talca, Dos sur 2, #863, piso 3, oficina 319., Talca",
+    "entityName": "+ Salud Mental",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.429924,-71.6644516"
+  },
+  {
+    "name": "Nut. Víctor Arriagada Arias ",
+    "specialization": "Nutricionista",
+    "address": "Consulta en línea, Talca",
+    "entityName": "Online Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Dr. Daniel Droguett Ossa ",
+    "specialization": "Dentista, Patólogo",
+    "address": "2 Sur 870, oficina 1010, Talca",
+    "entityName": "Centro Odontológico CYGNUS",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4284592,-71.6644974"
+  },
+  {
+    "name": "Dra. Laura Cecilia Baeza Quintana ",
+    "specialization": "Pediatra",
+    "address": "1 sur 1546 Mall Portal del Centro, piso 5, Talca, Talca",
+    "entityName": "Integramédica Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4277611,-71.6548615"
+  },
+  {
+    "name": "Dra. Ada Lizbeth Goya Goya ",
+    "specialization": "Médico general",
+    "address": "Camino Las Rastras, Talca",
+    "entityName": "ATENCION MEDICA DOMICILIARIA TALCA",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4365311,-71.6107788"
+  },
+  {
+    "name": "Dr. José Luis Mujica García ",
+    "specialization": "Hematólogo, Médico general",
+    "address": "Camino Las Rastras 1285,",
+    "entityName": "CENTRO ESPECIALIDADES PICHUMAPU",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4366646,-71.6112671"
+  },
+  {
+    "name": "Dra. Mariela Curiel Perez ",
+    "specialization": "Pediatra",
+    "address": "Camino Las Rastras 1285 piso 5 Box 502, Talca",
+    "entityName": "Consulta privada Pediatra Mariela Curiel",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4371834,-71.6119003"
+  },
+  {
+    "name": "Dr. Andres Aguayo Espinoza ",
+    "specialization": "Dentista",
+    "address": "4 y media norte 3539, Talca",
+    "entityName": "Culmen odontologia sucursal Las Rastras",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4392433,-71.625412"
+  },
+  {
+    "name": "Ps. Constanza Pagueguy Julio ",
+    "specialization": "Psicólogo",
+    "address": "Meet, Talca",
+    "entityName": "Artemisa yoga y bienestar",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Dra. Mariela Curiel Perez ",
+    "specialization": "Pediatra",
+    "address": "1 sur 1546 Mall Portal del Centro, piso 5, Talca, Talca",
+    "entityName": "Integramédica Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4277611,-71.6548615"
+  },
+  {
+    "name": "Dr. Alan Roy Kalbermatter ",
+    "specialization": "Psiquiatra",
+    "address": "Atención virtual, Talca",
+    "entityName": "Consulta - Salud Mental (atención virtual)",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4111671,-71.6431122"
+  },
+  {
+    "name": "Dr. Marcos Silva Feistner ",
+    "specialization": "Dermatólogo",
+    "address": "1 Norte 13 Oriente s/n, Talca",
+    "entityName": "Hospital Regional de Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Dra. Francis Pinto Guevara ",
+    "specialization": "Urólogo",
+    "address": "2 poniente, Talca",
+    "entityName": "Clinica lircay Horario de Atención Viernes a las 14:00 hasta las 16:00 Solo Pago Particular Sin convenio con FONASA O ISAPRES. TODAS LAS CONSULTAS SE CANCELAN INCLUYENDO LA REVISION DE EXAMENES",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4269409,-71.6681519"
+  },
+  {
+    "name": "Dra. Jeniffer Quijada Tamarín ",
+    "specialization": "Médico general",
+    "address": "Talca",
+    "entityName": "Consulta online Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ps. Hernán Muñoz Ruz ",
+    "specialization": "Psicólogo, Terapeuta complementario",
+    "address": "Avenida Diagonal Nueva Holanda 2245, Talca",
+    "entityName": "Centro Plenitud",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.424408,-71.6266174"
+  },
+  {
+    "name": "Dra. Erika Rosales ",
+    "specialization": "Médico general",
+    "address": "EDIFICIO ESPACIO TALCA 2 SUR 6T0 PISO N616, Talca",
+    "entityName": "FAVMED",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Dr. Felipe E. Ahumada Mira ",
+    "specialization": "Otorrino",
+    "address": "2 Poniente 1372, Talca",
+    "entityName": "Clinica Lircay Sociedad Anonima",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4238243,-71.6677322"
+  },
+  {
+    "name": "Nut. María Isabel Cofré Torres ",
+    "specialization": "Nutricionista",
+    "address": "Calle 1 Norte, Talca",
+    "entityName": "Consulta Online",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4268417,-71.6555481"
+  },
+  {
+    "name": "Dr. Juan Enrique Salas Figueroa ",
+    "specialization": "Traumatólogo",
+    "address": "Cuatro Norte 1656, Talca",
+    "entityName": "Centro Médico Andes Salud Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232597,-71.652771"
+  },
+  {
+    "name": "Dr. Diego Concha Celedón ",
+    "specialization": "Endocrinólogo, Nutriólogo",
+    "address": "Uno Norte 1990, Talca",
+    "entityName": "Consulta particular",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.427597,-71.6472015"
+  },
+  {
+    "name": "Dr. Luis Angel Arias Ceija ",
+    "specialization": "Médico general, Nefrólogo",
+    "address": "Camino Las Rastras 1285, Talca",
+    "entityName": "CENTRO PICHIMAPU",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4371948,-71.611908"
+  },
+  {
+    "name": "Dr. José Luis Mujica García ",
+    "specialization": "Hematólogo, Médico general",
+    "address": "Avenida Isidoro del Solar 99, Talca",
+    "entityName": "CONSULTA PARTICULAR-CENTRO DIAGNOSTICO DIAGONAL",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4245796,-71.6684036"
+  },
+  {
+    "name": "Dr. Carlos Quevedo Bonetti ",
+    "specialization": "Cirujano general",
+    "address": "30 oriente 1546, Edificio Centro las Rastras II, piso 2,",
+    "entityName": "Centro de especialidades médicas AITUE",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4283943,-71.6264267"
+  },
+  {
+    "name": "Dra. Lynmar González Peréz ",
+    "specialization": "Dermatólogo",
+    "address": "2 poniente, 1380, Talca",
+    "entityName": "Consulta Particular SkinMedical",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4234505,-71.667572"
+  },
+  {
+    "name": "Dra. Silvia Aguilar Salas ",
+    "specialization": "Nutriólogo, Especialista en salud publica",
+    "address": "30 oriente 1546 2do piso. Reservas directamente en la pagina web de Salud Aitue, Talca",
+    "entityName": "Centro Médico AITUE",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4286118,-71.6262207"
+  },
+  {
+    "name": "Ps. Maria Paz Reveco Reyes ",
+    "specialization": "Psicólogo",
+    "address": "Pasaje 5 poniente C 027, Talca",
+    "entityName": "Consulta Privada",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4388885,-71.6774292"
+  },
+  {
+    "name": "Dr. Alejandro Herrera Aceituno ",
+    "specialization": "NUEVO PERFIL EN DOCTORALIA",
+    "address": "Avenida Las Rastras 1285 Oficina 623. Centro Pichimapu, Talca",
+    "entityName": "Neurología Neuromuscular y Sueño Pichimapu",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Dr. Alirio Quintero ",
+    "specialization": "Cirujano general, Proctólogo",
+    "address": "calle 2 poniente 1372,",
+    "entityName": "cirugia general /proctologia",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4238243,-71.6676407"
+  },
+  {
+    "name": "Ps. Javiera Torres Leal ",
+    "specialization": "Psicólogo",
+    "address": "Calle 1 Poniente 1610, 2do nivel, Talca",
+    "entityName": "Consulta presencial",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4196243,-71.6659546"
+  },
+  {
+    "name": "Ps. María Magdalena Costa Arteaga ",
+    "specialization": "Psicólogo",
+    "address": "Talca, Talca",
+    "entityName": "Consulta Online",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ps. Carlos Ruz ",
+    "specialization": "Psicólogo",
+    "address": "Uno Sur 690, Talca",
+    "entityName": "LACORB",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4271851,-71.6669159"
+  },
+  {
+    "name": "Dr. Christian Pérez Fuentevilla ",
+    "specialization": "Nutriólogo",
+    "address": "30 Oriente 1562, Las Rastras , Talca,",
+    "entityName": "30 Oriente 1562, Las Rastras , Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4286118,-71.6262207"
+  },
+  {
+    "name": "Dra. Silvia Aguilar Salas ",
+    "specialization": "Nutriólogo, Especialista en salud publica",
+    "address": "5 Nte. 1617. Reservas directamente en la pagina web de Centro Médico Horizonte, Talca",
+    "entityName": "Centro Médico Horizonte",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4208031,-71.6533585"
+  },
+  {
+    "name": "Dra. Angela Aguilar Morales ",
+    "specialization": "Psiquiatra",
+    "address": "talca, Talca",
+    "entityName": "Consulta online",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Dr. Eduardo Celedon Lavin ",
+    "specialization": "Cardiocirujano, Cirujano general, Cirujano vascular",
+    "address": "Calle 2 Poniente, Talca",
+    "entityName": "Clinica Lircay",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4272156,-71.6681213"
+  },
+  {
+    "name": "Dr. Moises Gonzalez Pereira ",
+    "specialization": "NUEVO PERFIL EN DOCTORALIA",
+    "address": "Talca, Talca",
+    "entityName": "Consulta Online",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4224739,-71.6414642"
+  },
+  {
+    "name": "Dr. Andres Aguayo Espinoza ",
+    "specialization": "Dentista",
+    "address": "1 sur, Talca",
+    "entityName": "Culmen odontología sucursal centro",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.427803,-71.6575851"
+  },
+  {
+    "name": "Dra. Camila Aravena Briones ",
+    "specialization": "NUEVO PERFIL EN DOCTORALIA",
+    "address": "Talca",
+    "entityName": "Consulta Domiciliaria Particular",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Dr. Eduardo Adolfo Peña Rojas ",
+    "specialization": "Otorrino",
+    "address": "1 Poniente 1258 Edificio Plaza Poniente piso 11 of.1101,",
+    "entityName": "OtorrinosTalca dr Ahumada -dr Peña",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4254913,-71.6666641"
+  },
+  {
+    "name": "Dra. Ada Lizbeth Goya Goya ",
+    "specialization": "Médico general",
+    "address": "LAS RASTRAS, Talca",
+    "entityName": "CONSULTA PARTICULAR",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4365311,-71.6107788"
+  },
+  {
+    "name": "Dra. Daniela González Rojas ",
+    "specialization": "NUEVO PERFIL EN DOCTORALIA",
+    "address": "Camino Las Rastras 1285, Talca",
+    "entityName": "Neurología neuromuscular y sueño Pichimapu",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4371948,-71.611908"
+  },
+  {
+    "name": "Dr. Pablo Pérez Rodríguez ",
+    "specialization": "Traumatólogo",
+    "address": "1 Poniente 1369, Talca",
+    "entityName": "Consulta particular CEMTRA",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4237938,-71.6667633"
+  },
+  {
+    "name": "Dra. Amelia Cardenas ",
+    "specialization": "Psiquiatra",
+    "address": "1 sur 1546 Mall Portal del Centro, piso 5, Talca, Talca",
+    "entityName": "Integramédica Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4277611,-71.6548615"
+  },
+  {
+    "name": "Dr. Felipe López Illanes ",
+    "specialization": "Traumatólogo",
+    "address": "1 Poniente 1369, Talca, Maule, Chile, Talca",
+    "entityName": "CEMTRA, Centro Medicina y Traumatología",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4270325,-71.6667175"
+  },
+  {
+    "name": "Dr. Lenin Colmenares Ortiz ",
+    "specialization": "Traumatólogo",
+    "address": "camino la villa 4515 talca, Talca",
+    "entityName": "SANUS",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Dra. Cecilia Carolina Salinas Pereira ",
+    "specialization": "Médico estético",
+    "address": "Camino Las Rastras 1285, Talca",
+    "entityName": "Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4371948,-71.611908"
+  },
+  {
+    "name": "Ps. Katia Cisterna De la Barrera ",
+    "specialization": "Psicólogo",
+    "address": "Pedro de Valdivia,",
+    "entityName": "consulta particular",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4267578,-71.6627884"
+  },
+  {
+    "name": "Ps. Claudio Chamond ",
+    "specialization": "Psicólogo",
+    "address": "23 y medio norte 4234, Talca",
+    "entityName": "Consultorio Presencial Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4243088,-71.6287231"
+  },
+  {
+    "name": "Ps. David Díaz Molina ",
+    "specialization": "Psicólogo",
+    "address": "Circunvalación Poniente N° 1855, Talca",
+    "entityName": "Programa Bienestar y Salud Mental Estudiantil UST Talca, Campus CAR",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4254837,-71.6254883"
+  },
+  {
+    "name": "Ps. Daniela Valdés ",
+    "specialization": "Psicólogo",
+    "address": "Talca, Talca",
+    "entityName": "Consulta privada",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Nut. Felipe Alexi Toro Reyes ",
+    "specialization": "Nutricionista",
+    "address": "Edificio Centro 2000 1 norte 963 entre 2 y 3 oriente, Talca",
+    "entityName": "Everest Medical Sport, nutricion, metabolismo y deporte.",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4261436,-71.6629562"
+  },
+  {
+    "name": "Ps. Cristina Valenzuela Contreras ",
+    "specialization": "Psicólogo",
+    "address": "Cinco Poniente, Talca",
+    "entityName": "Consultorio privado",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4231453,-71.6718292"
+  },
+  {
+    "name": "Ps. Cristina San Martín ",
+    "specialization": "Psicólogo",
+    "address": "30 oriente 1528 oficina 406, Talca",
+    "entityName": "Centro Psicopedagógico Ingenio",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4274445,-71.6263733"
+  },
+  {
+    "name": "Ps. Camila Leiva ",
+    "specialization": "Psicólogo",
+    "address": "Calle 30 Oriente 1562, Talca",
+    "entityName": "Edificio las Rastras III Oficina 302",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4227142,-71.6699905"
+  },
+  {
+    "name": "Ps. Javiera Andrea Gonzalez Diaz ",
+    "specialization": "Psicólogo",
+    "address": "2 oriente 2 y 3 sur #930, Talca",
+    "entityName": "Consulta de Lunes a Viernes- 2 Oriente con 2 y 3 sur #930",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4295044,-71.6642227"
+  },
+  {
+    "name": "Dr. José Figueroa Flores ",
+    "specialization": "Traumatólogo",
+    "address": "Telemedicina, Talca",
+    "entityName": "Telemedicina -Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4232445,-71.6484833"
+  },
+  {
+    "name": "Ps. Carolina Rosales Cornejo ",
+    "specialization": "Psicólogo",
+    "address": "1 poniente 1675, Talca",
+    "entityName": "Centro Psicologico Talca",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4194717,-71.6663284"
+  },
+  {
+    "name": "Dr. Joaquín Alfonso Concha Flores ",
+    "specialization": "Médico general, Nutriólogo",
+    "address": "Carlos Schorr, Talca",
+    "entityName": "Consulta ONLINE Nutriología Dr. Joaquín Concha",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.429287,-71.6738129"
+  },
+  {
+    "name": "Saludamente - Instituto Clínico de Salud Mental ",
+    "specialization": "Cardiólogo, Endocrinólogo, Gastroenterólogo",
+    "address": "$35.000 atención médica Salud Mental, Talca",
+    "entityName": "Saludamente - Instituto Clínico de Salud Mental",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.423244,-71.648483"
+  },
+  {
+    "name": "Nut. Camila Fernanda Gonzalez Melendez ",
+    "specialization": "Nutricionista",
+    "address": "30 oriente, 4 y 5 norte 1420 (edificio de oficinas) piso 2 ofi 204, Talca",
+    "entityName": "Consulta Soy Nutri",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4413719,-71.6640167"
+  },
+  {
+    "name": "Nut. Sofía Pinochet ",
+    "specialization": "Nutricionista",
+    "address": "Avenida Dos Sur 870, Talca",
+    "entityName": "Consulta Edificio Espacio Talca, Oficina 1305.",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=-35.4284592,-71.6644974"
+  }
+]
